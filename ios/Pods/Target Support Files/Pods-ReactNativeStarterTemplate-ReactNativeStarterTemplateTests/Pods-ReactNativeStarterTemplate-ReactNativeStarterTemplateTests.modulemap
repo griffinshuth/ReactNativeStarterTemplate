@@ -1,0 +1,6 @@
+module Pods_ReactNativeStarterTemplate_ReactNativeStarterTemplateTests {
+  umbrella header "Pods-ReactNativeStarterTemplate-ReactNativeStarterTemplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "845483864145",
+    "project_id": "reactnativestarter-1a9e2",
+    "storage_bucket": "reactnativestarter-1a9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845483864145:android:76873ae8a26cfb78ae8870",
+        "android_client_info": {
+          "package_name": "com.griffinrnstarter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845483864145-gk2embgo5j62gd8nil3dsigovds9jjme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrsd83fAG_XntX78nmWGr9vSBF6st2Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845483864145-gk2embgo5j62gd8nil3dsigovds9jjme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845483864145-rb7gt639cph072u8cim4juk05rd450hl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.griffinrnstarter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
